@@ -1,0 +1,39 @@
+body {
+	background-color: snow;
+}
+nav {
+	text-align: center;
+	font-family: arial;
+	padding: 25px 30px;
+}
+
+nav a {
+	margin-left: 7px;
+	text-decoration: none;
+	color: black;
+	padding: 6px 15px;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	background-color: teal;
+	color: snow;
+	border-radius: 20px;
+}
+
+h1 {
+	text-align: center;
+	font-family: garamond;
+	color: saddlebrown;
+	font-weight: bold;
+	font-style: italic;
+} 
+
+p {
+	text-align: center;
+	font-family: arial;
+	color: black;
+}
